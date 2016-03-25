@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="zExcel.ExcelWorkbook">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="zExcel.ExcelWorkbook.FileFormat" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="zExcel.ExcelWorkbook.Cell" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>oABICABAQaQEQAQgECAAAIAAAYAAQQAAABHIAECICAg=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zExcel.CellFormat">
+    <Position X="3.75" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="zExcel.CellFormat.HAlignment" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="zExcel.CellFormat.VAlignment" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gQIIQIAAAAAhIAgAABAQAgAAAAAIABAAEACBgAABAAA=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zExcel.Border" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="zExcel.Border.BorderLineStyle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="zExcel.Border.BorderWeight" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAABAAAAAAIAAAAAEAAgAAAAAA=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zExcel.NumberFormatConst">
+    <Position X="6.75" Y="1.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="zExcel.NumberFormatConst.NumberFormats" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Class1.vb</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAABAAABCAACAAACAUgAAAACAAECZA=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zExcel.ColorConst" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAgAAAAAAAAABCAAAAAAAAg=</HashCode>
+      <FileName>Class1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="zExcel.My.MySettings" Collapsed="true">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="zExcel.My.Resources.Resources" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="zExcel.My.MySettingsProperty" Collapsed="true">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -24,7 +24,7 @@ Public Class ExcelWorkbook
             Return ""
         Catch ex As Exception
             'ReleaseComObject(XL)
-            MessageBox.Show("CreateExcelObject()" & Environment.NewLine & Environment.NewLine & ex.Message)
+            MessageBox.Show("CreateExcelObject() " & Environment.NewLine & Environment.NewLine & ex.Message)
         End Try
     End Function
 
